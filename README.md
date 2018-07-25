@@ -21,9 +21,9 @@ Algoritmo do Banqueiro
 Instruções
 
 Para compilar o programa:
-    	```bash
-	$ gcc -pthread -o main main.c processos.c sistema.c
-	```
+```bash
+$ gcc -pthread -o main main.c processos.c sistema.c
+```
 
 Para Executar é esperado uma entrada do tipo:
 ```bash
